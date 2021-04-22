@@ -1,0 +1,5 @@
+pandas
+feature-engine==0.6.1
+requests
+flask
+flasgger
